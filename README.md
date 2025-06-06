@@ -1,2 +1,2 @@
-# Grape-education
-This is React-native project.
+# Grape
+Grape Project
